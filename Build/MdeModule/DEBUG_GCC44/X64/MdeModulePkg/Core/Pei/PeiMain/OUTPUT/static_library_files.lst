@@ -1,0 +1,16 @@
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/PeiMemoryAllocationLib/PeiMemoryAllocationLib/OUTPUT/PeiMemoryAllocationLib.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/PeiHobLib/PeiHobLib/OUTPUT/PeiHobLib.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/PeiServicesLib/PeiServicesLib/OUTPUT/PeiServicesLib.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/PeiServicesTablePointerLib/PeiServicesTablePointerLib/OUTPUT/PeiServicesTablePointerLib.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/BasePeCoffExtraActionLibNull/BasePeCoffExtraActionLibNull/OUTPUT/PeCoffExtraActionLibNull.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/BasePeCoffGetEntryPointLib/BasePeCoffGetEntryPointLib/OUTPUT/BasePeCoffGetEntryPointLib.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull/OUTPUT/BaseReportStatusCodeLibNull.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/BasePerformanceLibNull/BasePerformanceLibNull/OUTPUT/BasePerformanceLibNull.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/PeiCoreEntryPoint/PeiCoreEntryPoint/OUTPUT/PeiCoreEntryPoint.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/BaseCacheMaintenanceLib/BaseCacheMaintenanceLib/OUTPUT/BaseCacheMaintenanceLib.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/BasePeCoffLib/BasePeCoffLib/OUTPUT/BasePeCoffLib.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdeModulePkg/Core/Pei/PeiMain/OUTPUT/PeiCore.lib

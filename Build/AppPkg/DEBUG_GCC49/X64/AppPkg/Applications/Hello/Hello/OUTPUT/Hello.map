@@ -1,0 +1,1296 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+                              (_ModuleEntryPoint)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj) (ProcessLibraryConstructorList)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj) (DebugPrint)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj) (gImageHandle)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj) (UefiRuntimeServicesTableLibConstructor)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj) (UefiLibConstructor)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/ShellPkg/Library/UefiShellCEntryLib/UefiShellCEntryLib/OUTPUT/UefiShellCEntryLib.lib(UefiShellCEntryLib.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj) (ShellCEntryLib)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(Hello.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/ShellPkg/Library/UefiShellCEntryLib/UefiShellCEntryLib/OUTPUT/UefiShellCEntryLib.lib(UefiShellCEntryLib.obj) (ShellAppMain)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj) (CopyMem)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj) (CompareGuid)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj) (InternalMemCopyMem)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj) (StrSize)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj) (ReadUnaligned24)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj) (RShiftU64)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj) (MultU64x32)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj) (LShiftU64)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj) (DivU64x32)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj) (BitFieldWrite32)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj) (InternalMathLShiftU64)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj) (SwapBytes32)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj) (SwapBytes16)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj) (AllocatePool)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(Hello.obj) (Print)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj) (ZeroMem)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj) (InternalMemZeroMem)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj) (InternalMemSetMem)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj) (StrCpyS)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj) (UnicodeVSPrint)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj) (BasePrintLibConvertValueToString)
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj) (DivU64x32Remainder)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .text.Exit     0x0000000000000000       0x6b /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .text.EfiMain  0x0000000000000000       0x29 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiCallerIdGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiCallerBaseName
+                0x0000000000000000        0x8 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiMdePkgTokenSpaceGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiVTUTF8Guid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiVT100Guid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiVT100PlusGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiPcAnsiGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiUartDevicePathGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiSasDevicePathGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiVirtualDiskGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiVirtualCdGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiPersistentVirtualDiskGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiPersistentVirtualCdGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiEventReadyToBootGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiEventLegacyBootGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiGlobalVariableGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiDevicePathProtocolGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiDebugPortProtocolGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiDriverBindingProtocolGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiSimpleTextOutProtocolGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiGraphicsOutputProtocolGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiHiiFontProtocolGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiUgaDrawProtocolGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiComponentNameProtocolGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiComponentName2ProtocolGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiDriverConfigurationProtocolGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiDriverConfiguration2ProtocolGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiDriverDiagnosticsProtocolGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .data.gEfiDriverDiagnostics2ProtocolGuid
+                0x0000000000000000       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .rodata._gPcd_FixedAtBuild_PcdVerifyNodeInList
+                0x0000000000000000        0x1 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .rodata._gPcd_FixedAtBuild_PcdMaximumLinkedListLength
+                0x0000000000000000        0x4 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .rodata._gPcd_FixedAtBuild_PcdDebugPropertyMask
+                0x0000000000000000        0x1 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .rodata._gPcd_FixedAtBuild_PcdMaximumDevicePathNodeCount
+                0x0000000000000000        0x4 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .rodata._gPcd_FixedAtBuild_PcdDriverDiagnosticsDisable
+                0x0000000000000000        0x1 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .rodata._gPcd_FixedAtBuild_PcdComponentNameDisable
+                0x0000000000000000        0x1 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .rodata._gPcd_FixedAtBuild_PcdDriverDiagnostics2Disable
+                0x0000000000000000        0x1 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .rodata._gPcd_FixedAtBuild_PcdComponentName2Disable
+                0x0000000000000000        0x1 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .rodata._gPcd_FixedAtBuild_PcdUgaConsumeSupport
+                0x0000000000000000        0x1 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .text.ExitDriver
+                0x0000000000000000       0x74 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .rodata._gDriverUnloadImageCount
+                0x0000000000000000        0x1 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .text.ProcessModuleUnloadList
+                0x0000000000000000        0xf /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+ .text.DebugClearMemory
+                0x0000000000000000       0x12 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+ .text.DebugCodeEnabled
+                0x0000000000000000        0xb /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+ .text.DebugClearMemoryEnabled
+                0x0000000000000000        0xb /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.CompareIso639LanguageCode
+                0x0000000000000000       0x57 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .rodata        0x0000000000000000      0x25b /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.EfiGetSystemConfigurationTable
+                0x0000000000000000      0x12e /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.EfiCreateProtocolNotifyEvent
+                0x0000000000000000      0x250 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.EfiNamedEventListen
+                0x0000000000000000      0x24f /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.EfiNamedEventSignal
+                0x0000000000000000      0x1b6 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.EfiEventGroupSignal
+                0x0000000000000000       0xb5 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.EfiGetCurrentTpl
+                0x0000000000000000       0x44 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.EfiInitializeLock
+                0x0000000000000000       0xb0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.EfiAcquireLock
+                0x0000000000000000       0xbf /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.EfiAcquireLockOrFail
+                0x0000000000000000       0xda /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.EfiReleaseLock
+                0x0000000000000000       0xbd /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.EfiTestManagedDevice
+                0x0000000000000000       0xec /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.EfiTestChildHandle
+                0x0000000000000000      0x126 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.LookupUnicodeString
+                0x0000000000000000      0x152 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.LookupUnicodeString2
+                0x0000000000000000      0x30b /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.AddUnicodeString
+                0x0000000000000000      0x3e8 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.AddUnicodeString2
+                0x0000000000000000      0x583 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.FreeUnicodeStringTable
+                0x0000000000000000       0xc5 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.GetVariable
+                0x0000000000000000      0x16a /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.GetEfiGlobalVariable
+                0x0000000000000000       0x28 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.GetVariable2
+                0x0000000000000000      0x1c8 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.GetEfiGlobalVariable2
+                0x0000000000000000       0x3e /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.GetBestLanguage
+                0x0000000000000000      0x25b /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text.InternalEmptyFunction
+                0x0000000000000000        0xf /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/ShellPkg/Library/UefiShellCEntryLib/UefiShellCEntryLib/OUTPUT/UefiShellCEntryLib.lib(UefiShellCEntryLib.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/ShellPkg/Library/UefiShellCEntryLib/UefiShellCEntryLib/OUTPUT/UefiShellCEntryLib.lib(UefiShellCEntryLib.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/ShellPkg/Library/UefiShellCEntryLib/UefiShellCEntryLib/OUTPUT/UefiShellCEntryLib.lib(UefiShellCEntryLib.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/ShellPkg/Library/UefiShellCEntryLib/UefiShellCEntryLib/OUTPUT/UefiShellCEntryLib.lib(UefiShellCEntryLib.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/ShellPkg/Library/UefiShellCEntryLib/UefiShellCEntryLib/OUTPUT/UefiShellCEntryLib.lib(UefiShellCEntryLib.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(Hello.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(Hello.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(Hello.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(Hello.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(Hello.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+ .rodata        0x0000000000000000       0xe6 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+ .text.CopyMem  0x0000000000000000       0xe6 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+ .debug_info    0x0000000000000000       0xe2 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+ .debug_abbrev  0x0000000000000000       0x75 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+ .debug_ranges  0x0000000000000000       0x20 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+ .debug_line    0x0000000000000000      0x107 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+ .debug_str     0x0000000000000000      0x207 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+ .debug_frame   0x0000000000000000       0x40 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMemWrapper.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+ .text.CopyGuid
+                0x0000000000000000       0x6d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+ .text.CompareGuid
+                0x0000000000000000       0x93 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+ .rodata        0x0000000000000000       0xf0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+ .text.ScanGuid
+                0x0000000000000000      0x133 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+ .debug_info    0x0000000000000000      0x22a /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+ .debug_abbrev  0x0000000000000000       0xb9 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+ .debug_aranges
+                0x0000000000000000       0x50 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+ .debug_ranges  0x0000000000000000       0x40 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+ .debug_line    0x0000000000000000      0x1a8 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+ .debug_str     0x0000000000000000      0x2a4 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+ .debug_frame   0x0000000000000000       0x90 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGuid.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+ .text.InternalMemCopyMem
+                0x0000000000000000       0xb8 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+ .debug_info    0x0000000000000000      0x114 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+ .debug_abbrev  0x0000000000000000       0x92 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+ .debug_ranges  0x0000000000000000       0x20 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+ .debug_line    0x0000000000000000       0xed /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+ .debug_str     0x0000000000000000      0x21e /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+ .debug_frame   0x0000000000000000       0x40 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(CopyMem.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.StrCpy   0x0000000000000000      0x198 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.StrnCpy  0x0000000000000000      0x20d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.StrCmp   0x0000000000000000       0xee /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.StrnCmp  0x0000000000000000      0x168 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.StrCat   0x0000000000000000       0x8f /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.StrnCat  0x0000000000000000       0xbd /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.StrStr   0x0000000000000000      0x138 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.InternalIsDecimalDigitCharacter
+                0x0000000000000000       0x26 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.InternalCharToUpper
+                0x0000000000000000       0x27 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.InternalHexCharToUintn
+                0x0000000000000000       0x4b /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.InternalIsHexaDecimalDigitCharacter
+                0x0000000000000000       0x4e /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.StrDecimalToUintn
+                0x0000000000000000      0x14e /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.StrDecimalToUint64
+                0x0000000000000000      0x155 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.StrHexToUintn
+                0x0000000000000000      0x18b /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.StrHexToUint64
+                0x0000000000000000      0x1e9 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.InternalAsciiIsDecimalDigitCharacter
+                0x0000000000000000       0x23 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.InternalAsciiIsHexaDecimalDigitCharacter
+                0x0000000000000000       0x49 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.UnicodeStrToAsciiStr
+                0x0000000000000000      0x221 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.AsciiStrCpy
+                0x0000000000000000      0x14d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.AsciiStrnCpy
+                0x0000000000000000      0x1c1 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.AsciiStrCmp
+                0x0000000000000000       0xec /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.InternalBaseLibAsciiToUpper
+                0x0000000000000000       0x24 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.InternalAsciiHexCharToUintn
+                0x0000000000000000       0x4e /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.AsciiStriCmp
+                0x0000000000000000      0x143 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.AsciiStrnCmp
+                0x0000000000000000      0x166 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.AsciiStrCat
+                0x0000000000000000       0x8e /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.AsciiStrnCat
+                0x0000000000000000       0xb3 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.AsciiStrStr
+                0x0000000000000000      0x132 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.AsciiStrDecimalToUintn
+                0x0000000000000000      0x148 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.AsciiStrDecimalToUint64
+                0x0000000000000000      0x14f /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.AsciiStrHexToUintn
+                0x0000000000000000      0x1c7 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.AsciiStrHexToUint64
+                0x0000000000000000      0x1df /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.AsciiStrToUnicodeStr
+                0x0000000000000000      0x1e8 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.DecimalToBcd8
+                0x0000000000000000       0xad /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text.BcdToDecimal8
+                0x0000000000000000       0xa8 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+ .text.WriteUnaligned16
+                0x0000000000000000       0x62 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+ .text.ReadUnaligned24
+                0x0000000000000000       0x55 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+ .text.WriteUnaligned24
+                0x0000000000000000       0x7d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+ .text.WriteUnaligned32
+                0x0000000000000000       0x5c /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+ .text.ReadUnaligned64
+                0x0000000000000000       0x51 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+ .text.WriteUnaligned64
+                0x0000000000000000       0x60 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+ .rodata        0x0000000000000000       0x5f /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+ .text.RShiftU64
+                0x0000000000000000       0x65 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+ .debug_info    0x0000000000000000       0xc7 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+ .debug_abbrev  0x0000000000000000       0x5e /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+ .debug_ranges  0x0000000000000000       0x20 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+ .debug_line    0x0000000000000000       0xe6 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+ .debug_str     0x0000000000000000      0x1e6 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+ .debug_frame   0x0000000000000000       0x40 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+ .text.MultU64x32
+                0x0000000000000000       0x2e /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+ .debug_info    0x0000000000000000       0xca /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+ .debug_abbrev  0x0000000000000000       0x6d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+ .debug_ranges  0x0000000000000000       0x20 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+ .debug_line    0x0000000000000000       0xd9 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+ .debug_str     0x0000000000000000      0x1f2 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+ .debug_frame   0x0000000000000000       0x40 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+ .rodata        0x0000000000000000       0x5f /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+ .text.LShiftU64
+                0x0000000000000000       0x65 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+ .debug_info    0x0000000000000000       0xc7 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+ .debug_abbrev  0x0000000000000000       0x5e /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+ .debug_ranges  0x0000000000000000       0x20 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+ .debug_line    0x0000000000000000       0xe6 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+ .debug_str     0x0000000000000000      0x1e6 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+ .debug_frame   0x0000000000000000       0x40 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+ .rodata        0x0000000000000000       0x5f /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+ .text.DivU64x32
+                0x0000000000000000       0x61 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+ .debug_info    0x0000000000000000       0xc7 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+ .debug_abbrev  0x0000000000000000       0x5e /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+ .debug_ranges  0x0000000000000000       0x20 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+ .debug_line    0x0000000000000000       0xe6 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+ .debug_str     0x0000000000000000      0x1ea /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+ .debug_frame   0x0000000000000000       0x40 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.InternalBaseLibBitFieldReadUint
+                0x0000000000000000       0x35 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .rodata        0x0000000000000000      0x1df /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.InternalBaseLibBitFieldOrUint
+                0x0000000000000000       0xba /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.InternalBaseLibBitFieldAndUint
+                0x0000000000000000       0xbe /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldRead8
+                0x0000000000000000       0xb0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldWrite8
+                0x0000000000000000       0xc0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldOr8
+                0x0000000000000000       0xbe /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldAnd8
+                0x0000000000000000       0xbe /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldAndThenOr8
+                0x0000000000000000       0xea /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldRead16
+                0x0000000000000000       0xb1 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldWrite16
+                0x0000000000000000       0xc2 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldOr16
+                0x0000000000000000       0xc0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldAnd16
+                0x0000000000000000       0xc0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldAndThenOr16
+                0x0000000000000000       0xed /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldRead32
+                0x0000000000000000       0xad /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldWrite32
+                0x0000000000000000       0xbe /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldOr32
+                0x0000000000000000       0xb8 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldAnd32
+                0x0000000000000000       0xb8 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldAndThenOr32
+                0x0000000000000000       0xdd /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldRead64
+                0x0000000000000000       0xc5 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldWrite64
+                0x0000000000000000       0xc2 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldOr64
+                0x0000000000000000      0x15f /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldAnd64
+                0x0000000000000000      0x168 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text.BitFieldAndThenOr64
+                0x0000000000000000       0xe1 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .debug_info    0x0000000000000000      0x944 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .debug_abbrev  0x0000000000000000       0xd0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .debug_aranges
+                0x0000000000000000      0x190 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .debug_ranges  0x0000000000000000      0x180 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .debug_line    0x0000000000000000      0x5a2 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .debug_str     0x0000000000000000      0x3ac /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .debug_frame   0x0000000000000000      0x3d0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(BitField.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .text.InternalMathLShiftU64
+                0x0000000000000000       0x1d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .text.InternalMathRShiftU64
+                0x0000000000000000       0x1d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .text.InternalMathARShiftU64
+                0x0000000000000000       0x6b /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .text.InternalMathLRotU64
+                0x0000000000000000       0x1e /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .text.InternalMathRRotU64
+                0x0000000000000000       0x1e /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .text.InternalMathSwapBytes64
+                0x0000000000000000       0x4e /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .text.InternalMathMultU64x32
+                0x0000000000000000       0x15 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .text.InternalMathMultU64x64
+                0x0000000000000000       0x17 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .text.InternalMathDivU64x32
+                0x0000000000000000       0x1c /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .text.InternalMathModU64x32
+                0x0000000000000000       0x1f /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .text.InternalMathDivRemU64x64
+                0x0000000000000000       0x3a /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .text.InternalMathDivRemS64x64
+                0x0000000000000000       0x34 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+ .text.SwapBytes32
+                0x0000000000000000       0x4a /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+ .debug_info    0x0000000000000000       0xca /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+ .debug_abbrev  0x0000000000000000       0x6d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+ .debug_ranges  0x0000000000000000       0x20 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+ .debug_line    0x0000000000000000       0xdc /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+ .debug_str     0x0000000000000000      0x1f2 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+ .debug_frame   0x0000000000000000       0x40 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+ .text.SwapBytes16
+                0x0000000000000000       0x1f /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+ .debug_info    0x0000000000000000       0xa3 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+ .debug_abbrev  0x0000000000000000       0x5e /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+ .debug_ranges  0x0000000000000000       0x20 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+ .debug_line    0x0000000000000000       0xd9 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+ .debug_str     0x0000000000000000      0x1d4 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+ .debug_frame   0x0000000000000000       0x40 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.InternalAllocatePages
+                0x0000000000000000       0x68 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.AllocatePages
+                0x0000000000000000       0x95 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.AllocateRuntimePages
+                0x0000000000000000       0x95 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.AllocateReservedPages
+                0x0000000000000000       0x95 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.FreePages
+                0x0000000000000000       0xf3 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.InternalAllocateAlignedPages
+                0x0000000000000000      0x400 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.AllocateAlignedPages
+                0x0000000000000000       0xa0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.AllocateAlignedRuntimePages
+                0x0000000000000000       0xa0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.AllocateAlignedReservedPages
+                0x0000000000000000       0xa0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.FreeAlignedPages
+                0x0000000000000000       0xf3 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.AllocateRuntimePool
+                0x0000000000000000       0x95 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.AllocateReservedPool
+                0x0000000000000000       0x95 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.InternalAllocateZeroPool
+                0x0000000000000000       0x5b /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.AllocateZeroPool
+                0x0000000000000000       0x95 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.AllocateRuntimeZeroPool
+                0x0000000000000000       0x95 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.AllocateReservedZeroPool
+                0x0000000000000000       0x95 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.InternalAllocateCopyPool
+                0x0000000000000000      0x104 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.AllocateCopyPool
+                0x0000000000000000       0xa0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.AllocateRuntimeCopyPool
+                0x0000000000000000       0xa0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.AllocateReservedCopyPool
+                0x0000000000000000       0xa0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.InternalReallocatePool
+                0x0000000000000000       0x94 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.ReallocatePool
+                0x0000000000000000       0xab /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.ReallocateRuntimePool
+                0x0000000000000000       0xab /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text.ReallocateReservedPool
+                0x0000000000000000       0xab /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .data.mEfiColors
+                0x0000000000000000       0x40 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .text.ErrorPrint
+                0x0000000000000000       0xe4 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .text.AsciiInternalPrint
+                0x0000000000000000      0x1b7 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .text.AsciiPrint
+                0x0000000000000000      0x122 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .text.AsciiErrorPrint
+                0x0000000000000000      0x122 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .text.InternalPrintGraphic
+                0x0000000000000000      0x84e /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .text.PrintXY  0x0000000000000000      0x224 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .text.AsciiPrintXY
+                0x0000000000000000      0x1e3 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .text.CatVSPrint
+                0x0000000000000000      0x175 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .text.CatSPrint
+                0x0000000000000000       0x54 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+ .rodata        0x0000000000000000       0xbe /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+ .text.ZeroMem  0x0000000000000000       0xae /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+ .debug_info    0x0000000000000000       0xc9 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+ .debug_abbrev  0x0000000000000000       0x65 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+ .debug_ranges  0x0000000000000000       0x20 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+ .debug_line    0x0000000000000000      0x105 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+ .debug_str     0x0000000000000000      0x1ef /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+ .debug_frame   0x0000000000000000       0x40 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(ZeroMemWrapper.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .text.InternalMemSetMem16
+                0x0000000000000000       0x3b /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .text.InternalMemSetMem32
+                0x0000000000000000       0x3a /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .text.InternalMemSetMem64
+                0x0000000000000000       0x3c /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .text.InternalMemZeroMem
+                0x0000000000000000       0x2f /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .text.InternalMemCompareMem
+                0x0000000000000000       0x56 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .text.InternalMemScanMem8
+                0x0000000000000000       0x48 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .text.InternalMemScanMem16
+                0x0000000000000000       0x4a /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .text.InternalMemScanMem32
+                0x0000000000000000       0x45 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .text.InternalMemScanMem64
+                0x0000000000000000       0x47 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .debug_info    0x0000000000000000      0x3cf /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .debug_abbrev  0x0000000000000000       0xa7 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .debug_aranges
+                0x0000000000000000       0xb0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .debug_ranges  0x0000000000000000       0xa0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .debug_line    0x0000000000000000      0x1d9 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .debug_str     0x0000000000000000      0x2e7 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .debug_frame   0x0000000000000000      0x180 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(MemLibGeneric.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+ .text.InternalMemSetMem
+                0x0000000000000000       0x49 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+ .debug_info    0x0000000000000000       0xf4 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+ .debug_abbrev  0x0000000000000000       0x86 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+ .debug_ranges  0x0000000000000000       0x20 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+ .debug_line    0x0000000000000000       0xe0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+ .debug_str     0x0000000000000000      0x1fd /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+ .debug_frame   0x0000000000000000       0x40 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib(SetMem.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .text.InternalSafeStringIsOverlap
+                0x0000000000000000       0x68 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .text.InternalSafeStringNoStrOverlap
+                0x0000000000000000       0x46 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .text.InternalSafeStringNoAsciiStrOverlap
+                0x0000000000000000       0x3e /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .rodata        0x0000000000000000      0x305 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .text.StrnLenS
+                0x0000000000000000       0x8f /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .text.StrCpyS  0x0000000000000000      0x3c7 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .text.StrnCpyS
+                0x0000000000000000      0x46f /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .text.StrCatS  0x0000000000000000      0x468 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .text.StrnCatS
+                0x0000000000000000      0x513 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .text.AsciiStrnLenS
+                0x0000000000000000       0x4d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .text.AsciiStrCpyS
+                0x0000000000000000      0x341 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .text.AsciiStrnCpyS
+                0x0000000000000000      0x3e9 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .text.AsciiStrCatS
+                0x0000000000000000      0x3df /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .text.AsciiStrnCatS
+                0x0000000000000000      0x48a /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .debug_info    0x0000000000000000      0x659 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .debug_abbrev  0x0000000000000000      0x116 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .debug_aranges
+                0x0000000000000000       0xf0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .debug_ranges  0x0000000000000000       0xe0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .debug_line    0x0000000000000000      0x9b7 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .debug_str     0x0000000000000000      0x38c /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .debug_frame   0x0000000000000000      0x3a0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .bss.gNullVaList
+                0x0000000000000000        0x8 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .text.UnicodeBSPrint
+                0x0000000000000000      0x150 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .text.UnicodeSPrint
+                0x0000000000000000       0x5b /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .text.UnicodeVSPrintAsciiFormat
+                0x0000000000000000      0x105 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .text.UnicodeBSPrintAsciiFormat
+                0x0000000000000000      0x10f /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .text.UnicodeSPrintAsciiFormat
+                0x0000000000000000       0x5b /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .text.UnicodeValueToString
+                0x0000000000000000       0xf4 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .text.AsciiVSPrint
+                0x0000000000000000       0xbc /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .text.AsciiBSPrint
+                0x0000000000000000       0xc6 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .text.AsciiSPrint
+                0x0000000000000000       0x5b /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .text.AsciiVSPrintUnicodeFormat
+                0x0000000000000000       0xff /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .text.AsciiBSPrintUnicodeFormat
+                0x0000000000000000      0x109 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .text.AsciiSPrintUnicodeFormat
+                0x0000000000000000       0x5b /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .text.AsciiValueToString
+                0x0000000000000000       0xb1 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .text.SPrintLength
+                0x0000000000000000      0x12f /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .text.SPrintLengthAsciiFormat
+                0x0000000000000000       0xee /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+ .text.BasePrintLibConvertValueToString
+                0x0000000000000000      0x3e2 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+ .text          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+ .data          0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+ .bss           0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+ .comment       0x0000000000000000       0x2d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+LOAD /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
+LOAD /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib
+LOAD /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib
+LOAD /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/ShellPkg/Library/UefiShellCEntryLib/UefiShellCEntryLib/OUTPUT/UefiShellCEntryLib.lib
+LOAD /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib
+END GROUP
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.text           0x0000000000000240     0x4320
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text._ModuleEntryPoint
+                0x0000000000000240       0x92 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+                0x0000000000000240                _ModuleEntryPoint
+ .text.ProcessLibraryConstructorList
+                0x00000000000002d2      0x1f3 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+                0x00000000000002d2                ProcessLibraryConstructorList
+ .text.ProcessLibraryDestructorList
+                0x00000000000004c5        0xf /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+                0x00000000000004c5                ProcessLibraryDestructorList
+ .text.ProcessModuleEntryPointList
+                0x00000000000004d4       0x29 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+                0x00000000000004d4                ProcessModuleEntryPointList
+ .text.DebugPrint
+                0x00000000000004fd       0x17 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+                0x00000000000004fd                DebugPrint
+ .text.DebugAssert
+                0x0000000000000514       0x13 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+                0x0000000000000514                DebugAssert
+ .text.DebugAssertEnabled
+                0x0000000000000527        0xb /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+                0x0000000000000527                DebugAssertEnabled
+ .text.DebugPrintEnabled
+                0x0000000000000532        0xb /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+                0x0000000000000532                DebugPrintEnabled
+ .text.DebugPrintLevelEnabled
+                0x000000000000053d        0xf /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+                0x000000000000053d                DebugPrintLevelEnabled
+ .text.UefiBootServicesTableLibConstructor
+                0x000000000000054c      0x123 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                0x000000000000054c                UefiBootServicesTableLibConstructor
+ .text.UefiRuntimeServicesTableLibConstructor
+                0x000000000000066f       0x73 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                0x000000000000066f                UefiRuntimeServicesTableLibConstructor
+ .text.UefiLibConstructor
+                0x00000000000006e2       0x13 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                0x00000000000006e2                UefiLibConstructor
+ .text.ShellCEntryLib
+                0x00000000000006f5      0x13f /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/ShellPkg/Library/UefiShellCEntryLib/UefiShellCEntryLib/OUTPUT/UefiShellCEntryLib.lib(UefiShellCEntryLib.obj)
+                0x00000000000006f5                ShellCEntryLib
+ .text.ShellAppMain
+                0x0000000000000834       0x43 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(Hello.obj)
+                0x0000000000000834                ShellAppMain
+ .text.StrLen   0x0000000000000877      0x108 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                0x0000000000000877                StrLen
+ .text.StrSize  0x000000000000097f       0x25 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                0x000000000000097f                StrSize
+ .text.AsciiStrLen
+                0x00000000000009a4       0xc6 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                0x00000000000009a4                AsciiStrLen
+ .text.AsciiStrSize
+                0x0000000000000a6a       0x22 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                0x0000000000000a6a                AsciiStrSize
+ .text.ReadUnaligned16
+                0x0000000000000a8c       0x51 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                0x0000000000000a8c                ReadUnaligned16
+ .text.ReadUnaligned32
+                0x0000000000000add       0x50 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                0x0000000000000add                ReadUnaligned32
+ .text.InternalMathDivRemU64x32
+                0x0000000000000b2d       0x41 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                0x0000000000000b2d                InternalMathDivRemU64x32
+ .text.InternalAllocatePool
+                0x0000000000000b6e       0x53 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                0x0000000000000b6e                InternalAllocatePool
+ .text.AllocatePool
+                0x0000000000000bc1       0x95 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                0x0000000000000bc1                AllocatePool
+ .text.FreePool
+                0x0000000000000c56       0xaf /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                0x0000000000000c56                FreePool
+ .text.InternalPrint
+                0x0000000000000d05      0x20f /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+                0x0000000000000d05                InternalPrint
+ .text.Print    0x0000000000000f14       0xe4 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+                0x0000000000000f14                Print
+ .text.UnicodeVSPrint
+                0x0000000000000ff8      0x146 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                0x0000000000000ff8                UnicodeVSPrint
+ .text.BasePrintLibFillBuffer
+                0x000000000000113e       0x72 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                0x000000000000113e                BasePrintLibFillBuffer
+ .text.BasePrintLibValueToString
+                0x00000000000011b0       0x74 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                0x00000000000011b0                BasePrintLibValueToString
+ .text.BasePrintLibSPrintMarker
+                0x0000000000001224     0x1656 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                0x0000000000001224                BasePrintLibSPrintMarker
+ .text.BasePrintLibSPrint
+                0x000000000000287a       0xe2 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                0x000000000000287a                BasePrintLibSPrint
+ .text.DivU64x32Remainder
+                0x000000000000295c       0x6c /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                0x000000000000295c                DivU64x32Remainder
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x00000000000029c8       0xb9 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ *fill*         0x0000000000002a81        0x3 
+ .rodata._gPcd_FixedAtBuild_PcdMaximumAsciiStringLength
+                0x0000000000002a84        0x4 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+                0x0000000000002a84                _gPcd_FixedAtBuild_PcdMaximumAsciiStringLength
+ .rodata._gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength
+                0x0000000000002a88        0x4 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+                0x0000000000002a88                _gPcd_FixedAtBuild_PcdMaximumUnicodeStringLength
+ .rodata._gPcd_FixedAtBuild_PcdUefiLibMaxPrintBufferSize
+                0x0000000000002a8c        0x4 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+                0x0000000000002a8c                _gPcd_FixedAtBuild_PcdUefiLibMaxPrintBufferSize
+ .rodata._gUefiDriverRevision
+                0x0000000000002a90        0x4 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+                0x0000000000002a90                _gUefiDriverRevision
+ *fill*         0x0000000000002a94        0x4 
+ .rodata        0x0000000000002a98       0xb7 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+ *fill*         0x0000000000002b4f        0x1 
+ .rodata        0x0000000000002b50       0x8d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+ *fill*         0x0000000000002bdd        0x3 
+ .rodata        0x0000000000002be0       0x7d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/ShellPkg/Library/UefiShellCEntryLib/UefiShellCEntryLib/OUTPUT/UefiShellCEntryLib.lib(UefiShellCEntryLib.obj)
+ *fill*         0x0000000000002c5d        0x3 
+ .rodata        0x0000000000002c60       0x82 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(Hello.obj)
+ *fill*         0x0000000000002ce2        0x6 
+ .rodata        0x0000000000002ce8      0x6e6 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ *fill*         0x00000000000033ce        0x2 
+ .rodata        0x00000000000033d0       0x67 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+ *fill*         0x0000000000003437        0x1 
+ .rodata        0x0000000000003438      0x147 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ *fill*         0x000000000000357f        0x1 
+ .rodata        0x0000000000003580      0x1c6 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ *fill*         0x0000000000003746        0x2 
+ .rodata        0x0000000000003748       0xe6 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ *fill*         0x000000000000382e        0x2 
+ .rodata.mHexStr
+                0x0000000000003830       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                0x0000000000003830                mHexStr
+ .rodata        0x0000000000003840      0x46e /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+ *fill*         0x0000000000003cae       0x12 
+ .rodata.mStatusString
+                0x0000000000003cc0      0x138 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                0x0000000000003cc0                mStatusString
+ .rodata.BasePrintLibSPrintMarker
+                0x0000000000003df8      0x6e0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+ .rodata        0x00000000000044d8       0x68 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+ *(.got .got.*)
+ *:AutoGen.obj(.data .data.* .bss .bss.*)
+ .data.gEfiShellParametersProtocolGuid
+                0x0000000000004540       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+                0x0000000000004540                gEfiShellParametersProtocolGuid
+ .data.gEfiShellInterfaceGuid
+                0x0000000000004550       0x10 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+                0x0000000000004550                gEfiShellInterfaceGuid
+
+.iplt           0x0000000000004560        0x0
+ .iplt          0x0000000000004560        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+
+.data           0x0000000000004580       0x20
+ *(.data .data.* .gnu.linkonce.d.*)
+ *(.bss .bss.*)
+ .bss.gImageHandle
+                0x0000000000004580        0x8 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                0x0000000000004580                gImageHandle
+ .bss.gST       0x0000000000004588        0x8 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                0x0000000000004588                gST
+ .bss.gBS       0x0000000000004590        0x8 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                0x0000000000004590                gBS
+ .bss.gRT       0x0000000000004598        0x8 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                0x0000000000004598                gRT
+
+.igot.plt       0x00000000000045a0        0x0
+ .igot.plt      0x00000000000045a0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+
+.eh_frame
+ *(.eh_frame)
+
+.rela           0x00000000000045c0        0x0
+ *(.rela .rela.*)
+ .rela.iplt     0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text._ModuleEntryPoint
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.Exit
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.ProcessLibraryConstructorList
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.ProcessModuleEntryPointList
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.ExitDriver
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.CompareIso639LanguageCode
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.EfiGetSystemConfigurationTable
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.EfiTestChildHandle
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.LookupUnicodeString2
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.AddUnicodeString
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.AddUnicodeString2
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.FreeUnicodeStringTable
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.GetVariable
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.GetVariable2
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.GetBestLanguage
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.ShellCEntryLib
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.ShellAppMain
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.CopyMem
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.CopyGuid
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.CompareGuid
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.StrnCpy
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.StrDecimalToUint64
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.StrHexToUint64
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.AsciiStrnCpy
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.AsciiStrDecimalToUint64
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.AsciiStrHexToUint64
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.WriteUnaligned24
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.RShiftU64
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.MultU64x32
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.LShiftU64
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.DivU64x32
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.InternalMathSwapBytes64
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.SwapBytes32
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.InternalAllocateZeroPool
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.InternalPrint
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.AsciiInternalPrint
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.InternalPrintGraphic
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.PrintXY
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.AsciiPrintXY
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.CatVSPrint
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.ZeroMem
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.InternalMemZeroMem
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.UnicodeVSPrint
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.UnicodeBSPrint
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.UnicodeVSPrintAsciiFormat
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.UnicodeBSPrintAsciiFormat
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.UnicodeValueToString
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.AsciiVSPrint
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.AsciiBSPrint
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.AsciiVSPrintUnicodeFormat
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.AsciiBSPrintUnicodeFormat
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.AsciiValueToString
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.SPrintLength
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.SPrintLengthAsciiFormat
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .rela.text.BasePrintLibValueToString
+                0x00000000000045c0        0x0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash)
+ *(.comment)
+ *(COMMON)
+OUTPUT(/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/DEBUG/Hello.dll elf64-x86-64)
+
+.debug_info     0x0000000000000000     0xfbbf
+ .debug_info    0x0000000000000000     0x174c /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .debug_info    0x000000000000174c     0x1b89 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .debug_info    0x00000000000032d5      0x20f /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+ .debug_info    0x00000000000034e4     0x16e2 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+ .debug_info    0x0000000000004bc6     0x16b8 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+ .debug_info    0x000000000000627e     0x213f /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .debug_info    0x00000000000083bd     0x1be5 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/ShellPkg/Library/UefiShellCEntryLib/UefiShellCEntryLib/OUTPUT/UefiShellCEntryLib.lib(UefiShellCEntryLib.obj)
+ .debug_info    0x0000000000009fa2       0xe9 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(Hello.obj)
+ .debug_info    0x000000000000a08b      0xb5a /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .debug_info    0x000000000000abe5      0x283 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+ .debug_info    0x000000000000ae68      0x430 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .debug_info    0x000000000000b298     0x156d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .debug_info    0x000000000000c805     0x24ee /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .debug_info    0x000000000000ecf3      0x6e2 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .debug_info    0x000000000000f3d5      0x70b /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+ .debug_info    0x000000000000fae0       0xdf /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+
+.debug_abbrev   0x0000000000000000     0x1463
+ .debug_abbrev  0x0000000000000000      0x1bd /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .debug_abbrev  0x00000000000001bd      0x204 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .debug_abbrev  0x00000000000003c1       0xb0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+ .debug_abbrev  0x0000000000000471      0x194 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+ .debug_abbrev  0x0000000000000605      0x183 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+ .debug_abbrev  0x0000000000000788      0x23c /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .debug_abbrev  0x00000000000009c4      0x192 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/ShellPkg/Library/UefiShellCEntryLib/UefiShellCEntryLib/OUTPUT/UefiShellCEntryLib.lib(UefiShellCEntryLib.obj)
+ .debug_abbrev  0x0000000000000b56       0x67 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(Hello.obj)
+ .debug_abbrev  0x0000000000000bbd       0xf5 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .debug_abbrev  0x0000000000000cb2       0x70 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+ .debug_abbrev  0x0000000000000d22       0xbf /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .debug_abbrev  0x0000000000000de1      0x1d3 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .debug_abbrev  0x0000000000000fb4      0x235 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .debug_abbrev  0x00000000000011e9       0xdc /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .debug_abbrev  0x00000000000012c5      0x135 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+ .debug_abbrev  0x00000000000013fa       0x69 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+
+.debug_aranges  0x0000000000000000      0xc50
+ .debug_aranges
+                0x0000000000000000       0x50 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .debug_aranges
+                0x0000000000000050       0x70 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .debug_aranges
+                0x00000000000000c0       0xa0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+ .debug_aranges
+                0x0000000000000160       0x30 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+ .debug_aranges
+                0x0000000000000190       0x30 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+ .debug_aranges
+                0x00000000000001c0      0x1b0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .debug_aranges
+                0x0000000000000370       0x30 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/ShellPkg/Library/UefiShellCEntryLib/UefiShellCEntryLib/OUTPUT/UefiShellCEntryLib.lib(UefiShellCEntryLib.obj)
+ .debug_aranges
+                0x00000000000003a0       0x30 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(Hello.obj)
+ .debug_aranges
+                0x00000000000003d0      0x290 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .debug_aranges
+                0x0000000000000660       0xa0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+ .debug_aranges
+                0x0000000000000700       0xf0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .debug_aranges
+                0x00000000000007f0      0x1d0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .debug_aranges
+                0x00000000000009c0       0xd0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .debug_aranges
+                0x0000000000000a90      0x120 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .debug_aranges
+                0x0000000000000bb0       0x70 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+ .debug_aranges
+                0x0000000000000c20       0x30 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+
+.debug_ranges   0x0000000000000000      0xb50
+ .debug_ranges  0x0000000000000000       0x40 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .debug_ranges  0x0000000000000040       0x60 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .debug_ranges  0x00000000000000a0       0x90 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+ .debug_ranges  0x0000000000000130       0x20 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+ .debug_ranges  0x0000000000000150       0x20 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+ .debug_ranges  0x0000000000000170      0x1a0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .debug_ranges  0x0000000000000310       0x20 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/ShellPkg/Library/UefiShellCEntryLib/UefiShellCEntryLib/OUTPUT/UefiShellCEntryLib.lib(UefiShellCEntryLib.obj)
+ .debug_ranges  0x0000000000000330       0x20 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(Hello.obj)
+ .debug_ranges  0x0000000000000350      0x280 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .debug_ranges  0x00000000000005d0       0x90 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+ .debug_ranges  0x0000000000000660       0xe0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .debug_ranges  0x0000000000000740      0x1c0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .debug_ranges  0x0000000000000900       0xc0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .debug_ranges  0x00000000000009c0      0x110 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .debug_ranges  0x0000000000000ad0       0x60 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+ .debug_ranges  0x0000000000000b30       0x20 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+
+.debug_line     0x0000000000000000     0x4166
+ .debug_line    0x0000000000000000      0x2e2 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .debug_line    0x00000000000002e2      0x35a /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .debug_line    0x000000000000063c      0x177 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+ .debug_line    0x00000000000007b3      0x25e /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+ .debug_line    0x0000000000000a11      0x240 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+ .debug_line    0x0000000000000c51      0xa91 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .debug_line    0x00000000000016e2      0x325 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/ShellPkg/Library/UefiShellCEntryLib/UefiShellCEntryLib/OUTPUT/UefiShellCEntryLib.lib(UefiShellCEntryLib.obj)
+ .debug_line    0x0000000000001a07       0xd9 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(Hello.obj)
+ .debug_line    0x0000000000001ae0      0xbcf /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .debug_line    0x00000000000026af      0x1ed /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+ .debug_line    0x000000000000289c      0x1fb /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .debug_line    0x0000000000002a97      0x65d /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .debug_line    0x00000000000030f4      0x692 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .debug_line    0x0000000000003786      0x366 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .debug_line    0x0000000000003aec      0x58a /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+ .debug_line    0x0000000000004076       0xf0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+
+.debug_str      0x0000000000000000     0x360d
+ .debug_str     0x0000000000000000     0x11ef /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+                                       0x12eb (size before relaxing)
+ .debug_str     0x00000000000011ef      0x640 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+                                       0x18af (size before relaxing)
+ .debug_str     0x000000000000182f      0x10f /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+                                        0x2a9 (size before relaxing)
+ .debug_str     0x000000000000193e       0x93 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                                       0x12db (size before relaxing)
+ .debug_str     0x00000000000019d1       0x9c /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                                       0x12d7 (size before relaxing)
+ .debug_str     0x0000000000001a6d      0x40a /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                                       0x171e (size before relaxing)
+ .debug_str     0x0000000000001e77      0x33c /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/ShellPkg/Library/UefiShellCEntryLib/UefiShellCEntryLib/OUTPUT/UefiShellCEntryLib.lib(UefiShellCEntryLib.obj)
+                                       0x1634 (size before relaxing)
+ .debug_str     0x00000000000021b3       0x5b /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(Hello.obj)
+                                        0x1ee (size before relaxing)
+ .debug_str     0x000000000000220e      0x2da /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                                        0x595 (size before relaxing)
+ .debug_str     0x00000000000024e8       0xd3 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                                        0x267 (size before relaxing)
+ .debug_str     0x00000000000025bb      0x1c6 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                                        0x35f (size before relaxing)
+ .debug_str     0x0000000000002781      0x2a2 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                                        0xecf (size before relaxing)
+ .debug_str     0x0000000000002a23      0x797 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+                                       0x1b9d (size before relaxing)
+ .debug_str     0x00000000000031ba      0x1c0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                                        0x392 (size before relaxing)
+ .debug_str     0x000000000000337a      0x228 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                                        0x50d (size before relaxing)
+ .debug_str     0x00000000000035a2       0x6b /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                                        0x206 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x2350
+ .debug_frame   0x0000000000000000       0x90 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiApplicationEntryPoint/UefiApplicationEntryPoint/OUTPUT/UefiApplicationEntryPoint.lib(ApplicationEntryPoint.obj)
+ .debug_frame   0x0000000000000090       0xe0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(AutoGen.obj)
+ .debug_frame   0x0000000000000170      0x158 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib(DebugLib.obj)
+ .debug_frame   0x00000000000002c8       0x40 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+ .debug_frame   0x0000000000000308       0x40 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+ .debug_frame   0x0000000000000348      0x4c0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+ .debug_frame   0x0000000000000808       0x40 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/ShellPkg/Library/UefiShellCEntryLib/UefiShellCEntryLib/OUTPUT/UefiShellCEntryLib.lib(UefiShellCEntryLib.obj)
+ .debug_frame   0x0000000000000848       0x40 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/AppPkg/Applications/Hello/Hello/OUTPUT/Hello.lib(Hello.obj)
+ .debug_frame   0x0000000000000888      0x670 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+ .debug_frame   0x0000000000000ef8      0x158 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+ .debug_frame   0x0000000000001050      0x220 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+ .debug_frame   0x0000000000001270      0x7b0 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+ .debug_frame   0x0000000000001a20      0x300 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLibPrint.obj)
+ .debug_frame   0x0000000000001d20      0x4d8 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+ .debug_frame   0x00000000000021f8      0x118 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+ .debug_frame   0x0000000000002310       0x40 /home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC49/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)

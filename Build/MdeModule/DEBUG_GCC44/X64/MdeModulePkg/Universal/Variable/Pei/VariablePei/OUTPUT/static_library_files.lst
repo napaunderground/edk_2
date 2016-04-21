@@ -1,0 +1,10 @@
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/PeiMemoryAllocationLib/PeiMemoryAllocationLib/OUTPUT/PeiMemoryAllocationLib.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/PeiServicesLib/PeiServicesLib/OUTPUT/PeiServicesLib.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/BaseDebugLibNull/BaseDebugLibNull/OUTPUT/BaseDebugLibNull.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/PeiHobLib/PeiHobLib/OUTPUT/PeiHobLib.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/BasePcdLibNull/BasePcdLibNull/OUTPUT/BasePcdLibNull.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/BaseMemoryLib/BaseMemoryLib/OUTPUT/BaseMemoryLib.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/PeiServicesTablePointerLib/PeiServicesTablePointerLib/OUTPUT/PeiServicesTablePointerLib.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdePkg/Library/PeimEntryPoint/PeimEntryPoint/OUTPUT/PeimEntryPoint.lib
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/MdeModule/DEBUG_GCC44/X64/MdeModulePkg/Universal/Variable/Pei/VariablePei/OUTPUT/PeiVariable.lib

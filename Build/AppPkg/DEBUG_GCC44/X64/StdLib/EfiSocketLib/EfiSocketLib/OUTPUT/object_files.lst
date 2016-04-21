@@ -1,0 +1,10 @@
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC44/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/DxeSupport.obj
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC44/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/Init.obj
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC44/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/Ip4.obj
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC44/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/Service.obj
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC44/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/Socket.obj
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC44/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/Tcp4.obj
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC44/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/Tcp6.obj
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC44/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/Udp4.obj
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC44/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/Udp6.obj
+/home/student/nseiger/CS385/EFI/Sonoma_edk2/Build/AppPkg/DEBUG_GCC44/X64/StdLib/EfiSocketLib/EfiSocketLib/OUTPUT/UseEfiSocketLib.obj
